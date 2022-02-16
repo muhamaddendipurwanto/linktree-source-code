@@ -1,0 +1,78 @@
+body {
+    background: rgb(255,0,224);
+background: -moz-linear-gradient(306deg, rgba(255,0,224,1) 11%, rgba(121,34,107,1) 100%);
+background: -webkit-linear-gradient(306deg, rgba(255,0,224,1) 11%, rgba(121,34,107,1) 100%);
+background: linear-gradient(306deg, rgba(255,0,224,1) 11%, rgba(121,34,107,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ff00e0",endColorstr="#79226b",GradientType=1);
+    color: black;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    
+    }
+    
+    img {
+        border-radius: 50%;
+        
+        }
+        .profile-photos {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: 5%;
+            height: auto;
+            max-width: 150px;
+            border: 5px solid rgb(255, 255, 255);
+            }
+            .profile-name {
+                text-align: center;
+                color: rgb(255, 255, 255);
+                padding: 1%;
+                }
+                .profile-name2 {
+                    text-align: center;
+                    color: rgb(255, 255, 255);
+                    }
+                .profile-store {
+                    text-align: center;
+                    padding: 50px;
+                    font-size: medium;
+                    font-weight: bold;
+                    }
+                .links {
+                    text-align: center;
+                    margin-top: 15px;
+                    padding: 15px;
+                    border: 5px solid rgb(255, 255, 255);
+                    border-width: 2px;
+                    width: 290px;
+                    display: block;
+                    margin-left: auto;
+                    margin-right: auto;
+                    border-radius: 40px;
+                    }
+                    a {
+                        text-decoration: none;
+                        color: rgb(255, 255, 255);
+                        transition: color 1s;
+                        }
+                        .bottom-text {
+                            text-align: center;
+                            margin-top: 40px;
+                            font-size: 20px;
+                            font-weight: bold;
+                            display: block;
+                            margin-left: auto;
+                            margin-right: auto;
+                            margin-top: 5%;
+                            height: auto;
+                            max-width: 50px;
+                            
+                            }
+    
+                            a:hover {
+                                color: rgb(233, 13, 13);
+                                background: white;
+                                }
+                               
